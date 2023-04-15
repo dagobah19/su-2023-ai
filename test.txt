@@ -1,0 +1,8 @@
+Function Test(){
+  let var='hello'
+  Alert(var)
+  return true
+}
+
+Function Test(){let var='hello' Alert(var)  return true}
+Function Test(){let var='hello'; Alert(var);  return true;}

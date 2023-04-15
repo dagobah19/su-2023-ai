@@ -1,0 +1,5 @@
+key.txt
+ai notes.txt
+*.ts
+
+node_modules
